@@ -1,0 +1,15 @@
+{
+  "name": "U.S. Taiwan Watch",
+  "description": "Get the latest updates from U.S. Congress on Taiwan related news.",
+  "keywords": ["contentful", "gatsby", "static", "ssg"],
+  "repository": "https://github.com/ACTtaiwan/ustw-site",
+  "success_url": "/",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ]
+}
