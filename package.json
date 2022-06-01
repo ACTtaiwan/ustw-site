@@ -6,7 +6,7 @@
   "author": "Jerry Hsu <jerryhsu@acttaiwan.org>",
   "dependencies": {
     "lodash": "^4.17.11",
-    "sharp": "^0.22.0",
+    "sharp": "^0.30.5",
     "gatsby": "^2.15.29",
     "gatsby-image": "^2.2.24",
     "gatsby-plugin-manifest": "^2.2.20",
